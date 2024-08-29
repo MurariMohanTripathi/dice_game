@@ -1,0 +1,36 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+/* body {
+  background-color: #393E46;
+} */
+
+h1 {
+  margin: 0px 410px 18px 411px;
+border-radius: 66px;
+}
+
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+
+.btn{
+  margin:43px 45px 19px 707px;
+}
